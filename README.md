@@ -1,7 +1,5 @@
 # :file_folder: backend_challenge-ignite_api
 
-#  Backend Upload API
-
 
 ## :pencil: Pre-requisites
 
