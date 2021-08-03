@@ -22,7 +22,7 @@ $    npm install
 ```
 
 ```sh
-$    npm run dev    # and the application will be available on http:localhost:5000/
+$    npm run dev    # and the application will be available on http:localhost:3333/
 ```
 
 ```sh
